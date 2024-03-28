@@ -6,12 +6,11 @@
 - 😄 Pronouns: He, Aayush,
 - ⚡ Fun fact: 1+1 is 10 and not 2 😂
 - ✨My projects:-
+          - Number Guessing Game in Python @gfg
 <br>
-&emsp&emsp- Number Guessing Game in Python @gfg
+          https://www.geeksforgeeks.org/number-guessing-game-in-python/
 <br>
-&emsp&emsphttps://www.geeksforgeeks.org/number-guessing-game-in-python/
-<br>
-&emsp&emsphttps://github.com/Aayush-2103/Number_guessing_game_in_python.git
+          https://github.com/Aayush-2103/Number_guessing_game_in_python.git
           
 
 <!---
