@@ -9,15 +9,17 @@
 <p>
     <ol>
         <li>
-        - Number Guessing Game in Python
-        <br>
-        https://github.com/Aayush-2103/Number_guessing_game_in_python.git
-        </li>
+            Number Guessing Game in Python
+            <br>
+            https://github.com/Aayush-2103/Number_guessing_game_in_python.git
+    </li>
 
-        <li>
-        
-        </li>
-    </ol>
+<li>
+Guess the correct word Game in Python
+<br>
+
+</li>
+</ol>
 </p>
           
 
