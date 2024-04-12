@@ -7,9 +7,17 @@
 - ⚡ Fun fact: 1+1 is 10 and not 2 😂
 - ✨My projects:-
 <p>
-          - Number Guessing Game in Python
-          <br>
-          https://github.com/Aayush-2103/Number_guessing_game_in_python.git
+    <ol>
+        <li>
+        - Number Guessing Game in Python
+        <br>
+        https://github.com/Aayush-2103/Number_guessing_game_in_python.git
+        </li>
+
+        <li>
+        
+        </li>
+    </ol>
 </p>
           
 
