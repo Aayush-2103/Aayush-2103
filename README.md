@@ -19,6 +19,12 @@ Guess the correct word Game in Python
 <br>
 https://github.com/Aayush-2103/Guess_the_correct_word_Game_in_Python.git
 </li>
+
+<li>
+    PyCalc: Standard Calculator
+    <br>
+    https://github.com/Aayush-2103/Standard_Calc.git
+</li>
 </ol>
 </p>
           
