@@ -27,7 +27,7 @@
 </li>
 
 <li>
-    Rock, Paper, Scissors! 🪨📄✂️ Challenge & Conquer! 🌟
+    Rock, Paper, Scissors! 📄✂️ Challenge & Conquer! 🌟
     <br>
     https://github.com/Aayush-2103/Rock_paper_scissors
 </li>
