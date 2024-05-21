@@ -7,24 +7,31 @@
 - ⚡ Fun fact: 1+1 is 10 and not 2 😂
 - ✨My projects:-
 <p>
-    <ol>
-        <li>
-            Number Guessing Game in Python
-            <br>
-            https://github.com/Aayush-2103/Number_guessing_game_in_python.git
-    </li>
+<ol>
+<li>
+    Number Guessing Game in Python
+    <br>
+    https://github.com/Aayush-2103/Number_guessing_game_in_python
+</li>
 
 <li>
-Guess the correct word Game in Python
-<br>
-https://github.com/Aayush-2103/Guess_the_correct_word_Game_in_Python.git
+    Guess the correct word Game in Python
+    <br>
+    https://github.com/Aayush-2103/Guess_the_correct_word_Game_in_Python
 </li>
 
 <li>
     PyCalc: Standard Calculator
     <br>
-    https://github.com/Aayush-2103/Standard_Calc.git
+    https://github.com/Aayush-2103/Standard_Calc
 </li>
+
+<li>
+    Rock, Paper, Scissors! 🪨📄✂️ Challenge & Conquer! 🌟
+    <br>
+    https://github.com/Aayush-2103/Rock_paper_scissors
+</li>
+
 </ol>
 </p>
           
